@@ -6,11 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Login screen: existing users can log in.
+Register screen: users can register themselves.
+Inventory screen: there is pre-loaded inventory listed, user can add it to their profile by clicking them.
+Profile screen: user can manage their inventory.
+Trade screen: here user can buy/sell their inventory.
